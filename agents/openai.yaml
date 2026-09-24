@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chinese X Content Studio"
+  short_description: "Research, draft, visually package, and review Chinese X content"
+  default_prompt: "Use $x-content-studio-cn to create one evidence-based Chinese X post for human review."
